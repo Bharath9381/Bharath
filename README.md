@@ -1,2 +1,4 @@
 # Bharath
-This is my first repository-Author-Bharath
+This is my first repository.
+<br>
+Author-Bharath
